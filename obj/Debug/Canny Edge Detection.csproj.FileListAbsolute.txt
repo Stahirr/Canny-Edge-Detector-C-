@@ -1,0 +1,15 @@
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\bin\Debug\AnalizaObrazu.exe.config
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\bin\Debug\AnalizaObrazu.exe.manifest
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\bin\Debug\AnalizaObrazu.application
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\bin\Debug\AnalizaObrazu.exe
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\bin\Debug\AnalizaObrazu.pdb
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Debug\Canny Edge Detection.csproj.AssemblyReference.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Debug\Canny Edge Detection.csproj.SuggestedBindingRedirects.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Debug\Canny.Form1.resources
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Debug\AnalizaObrazu.Properties.Resources.resources
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Debug\Canny Edge Detection.csproj.GenerateResource.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Debug\Canny Edge Detection.csproj.CoreCompileInputs.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Debug\AnalizaObrazu.exe.manifest
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Debug\AnalizaObrazu.application
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Debug\AnalizaObrazu.exe
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Debug\AnalizaObrazu.pdb

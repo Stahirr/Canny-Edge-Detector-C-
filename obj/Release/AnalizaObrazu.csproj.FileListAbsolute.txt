@@ -1,0 +1,6 @@
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Release\AnalizaObrazu.csproj.AssemblyReference.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Release\AnalizaObrazu.csproj.SuggestedBindingRedirects.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Release\Canny.Form1.resources
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Release\AnalizaObrazu.Properties.Resources.resources
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Release\AnalizaObrazu.csproj.GenerateResource.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\AnalizaObrazu.starter\obj\Release\AnalizaObrazu.csproj.CoreCompileInputs.cache

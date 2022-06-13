@@ -1,0 +1,15 @@
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\obj\Debug\CannyEdgeDetection.csproj.AssemblyReference.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\obj\Debug\CannyEdgeDetection.csproj.SuggestedBindingRedirects.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\obj\Debug\Canny.Form1.resources
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\obj\Debug\CannyEdgeDetection.csproj.GenerateResource.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\obj\Debug\CannyEdgeDetection.csproj.CoreCompileInputs.cache
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\bin\Debug\CannyEdgeDetection.exe.config
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\bin\Debug\CannyEdgeDetection.exe.manifest
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\bin\Debug\CannyEdgeDetection.application
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\bin\Debug\CannyEdgeDetection.exe
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\bin\Debug\CannyEdgeDetection.pdb
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\obj\Debug\CannyEdgeDetection.Properties.Resources.resources
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\obj\Debug\CannyEdgeDetection.exe.manifest
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\obj\Debug\CannyEdgeDetection.application
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\obj\Debug\CannyEdgeDetection.exe
+C:\Users\stach\Downloads\Canny\AnalizaObrazu.starter (2)\CannyEdgeDetection\obj\Debug\CannyEdgeDetection.pdb
